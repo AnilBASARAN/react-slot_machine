@@ -1,0 +1,16 @@
+.win{
+    color: white;
+    background-color: green;
+}
+
+.lose{
+    color: white;
+    background-color: red;
+}
+
+.machine{
+    width: 200px;
+    height: 100px;
+    border: 2px solid black;
+    text-align: center;
+}
